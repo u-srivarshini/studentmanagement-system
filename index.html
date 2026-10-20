@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Management System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>Student Management System</h2>
+
+    <form id="form">
+        <input id="roll" placeholder="Roll No" required>
+        <input id="name" placeholder="Student Name" required>
+        <input id="course" placeholder="Course" required>
+        <button>Add Student</button>
+    </form>
+
+    <input id="search" placeholder="Search student">
+
+    <table>
+        <thead>
+            <tr><th>Roll</th><th>Name</th><th>Course</th><th>Action</th></tr>
+        </thead>
+        <tbody id="list"></tbody>
+    </table>
+
+    <script src="script.js"></script>
+</body>
+</html>
