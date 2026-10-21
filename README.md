@@ -4,8 +4,7 @@
 
 # \## Description
 
-# A Student Management System for student registration.
-
+A Student Management System for student registration and searching student records.
 # 
 
 # \## Technologies Used
