@@ -4,7 +4,7 @@
 
 # \## Description
 
-# A simple application to manage student records.
+# A Student Management System for student registration.
 
 # 
 
